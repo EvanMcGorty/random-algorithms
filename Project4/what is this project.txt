@@ -1,0 +1,2 @@
+This is one of my really early projects that i did when i was still learning c++, and there is an amazing matrix solver (somewhere in here, i'm not sure how to run it as its been so long) that i have no idea how i managed to get right.
+It still will screw up if there is a zero term, but it can solve any arbitrarily large system of equations, and it does all of its math (and recieves input from the user) with fractions.
