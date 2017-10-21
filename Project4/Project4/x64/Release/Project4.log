@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\linke\documents\visual studio 2015\projects\project4\project4\matrixmath.h(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp(17): note: see reference to function template instantiation 'matrix<fraction<__int64,true,0>,0> rowreduce<__int64>(matrix<fraction<__int64,true,0>,0>)' being compiled
+c:\users\linke\documents\visual studio 2015\projects\project4\project4\matrixmath.h(44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp(21): note: see reference to function template instantiation 'std::vector<pty,std::allocator<_Ty>> rowsubs<__int64>(matrix<pty,0>)' being compiled
+          with
+          [
+              pty=fraction<__int64,true,0>,
+              _Ty=fraction<__int64,true,0>
+          ]
+  Generating code
+  1 of 152 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project4.vcxproj -> C:\Users\linke\Documents\Visual Studio 2015\Projects\Project4\x64\Release\Project4.exe
+  Project4.vcxproj -> C:\Users\linke\Documents\Visual Studio 2015\Projects\Project4\x64\Release\Project4.pdb (Full PDB)

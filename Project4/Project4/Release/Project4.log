@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\linke\documents\visual studio 2015\projects\project4\project4\input.h(117): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp(13): note: see reference to function template instantiation 'matrix<fraction<__int64,true,0>,0> matrixinput<__int64,0>(void)' being compiled
+  Generating code
+  115 of 152 functions (75.7%) were compiled, the rest were copied from previous compilation.
+    99 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project4.vcxproj -> C:\Users\linke\Documents\Visual Studio 2015\Projects\Project4\Release\Project4.exe
+  Project4.vcxproj -> C:\Users\linke\Documents\Visual Studio 2015\Projects\Project4\Release\Project4.pdb (Full PDB)
